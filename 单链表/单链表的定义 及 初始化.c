@@ -11,7 +11,7 @@ struct LNode               // 定义单链表结点类型
 	int data;                      // (数据域)  每个结点存放一个数据元素
 	struct LNode* next;            // (指针域)  指针指向下一个结点
 
-};
+}LNode,*LinkList;
 
 struct LNode* p = (struct LNode*)malloc(sizeof(struct LNode));   // 增加一个新的结点：在内存空间中申请一个结点所需空间，并用指针p指向这个结点
 
@@ -36,10 +36,10 @@ typedef struct LNode
 }LNode, * LinkList;
 
 // 初始化一个空的单链表
-bool InitList(LinkList& L)
+bool InitList(LinkList* L)
 {
 	L = NULL;          // 空表，暂时还没有任何结点
-	return ture;
+	return true;
 }
 
 void test()
@@ -71,9 +71,9 @@ bool Empty(LinkList L)
 }
 
 // 初始化一个单链表
-bool InitList(LinkList& L)
+bool InitList(LinkList* L)
 {
-	L = (int*)malloc(sizeof(LNode));      // 分配一个头结点
+	L = (LNode*)malloc(sizeof(LNode));      // 分配一个头结点
 	if (L == NULL)                        // 内存不足，分配失败
 		return false;
 	L->next = NULL;                       // 头结点后暂时还没有结点
