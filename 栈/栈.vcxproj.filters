@@ -15,13 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="顺序表的定义 及 初始化.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="顺序表的基本操作.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="test.c">
+    <ClCompile Include="顺序栈的实现.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

@@ -51,7 +51,5 @@ int main()
 	SeqList L;        // 声明一个顺序表L
 	InitList(&L);   // 初始化顺序表， 并动态分配内存
 
-	free(L.data);
-
 	return 0;
 }
