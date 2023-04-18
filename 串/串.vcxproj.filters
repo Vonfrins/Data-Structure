@@ -15,31 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="单链表的定义 及 初始化.c">
+    <ClCompile Include="串的存储结构.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="单链表的基本操作.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="静态链表.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="双链表的定义 及 初始化.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="双链表的基本操作.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="顺序表的定义 及 初始化.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="顺序表的基本操作.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="循环单链表.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="循环双链表.c">
+    <ClCompile Include="串 的模式匹配.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

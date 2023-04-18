@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{74c41195-608a-4ed7-a980-5bc5c63c20c1}</ProjectGuid>
-    <RootNamespace>线性表</RootNamespace>
+    <ProjectGuid>{5f28abae-9fa4-48db-99f9-af1d6b9d0425}</ProjectGuid>
+    <RootNamespace>串</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,15 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="单链表的基本操作.c" />
-    <ClCompile Include="单链表的定义 及 初始化.c" />
-    <ClCompile Include="双链表的基本操作.c" />
-    <ClCompile Include="双链表的定义 及 初始化.c" />
-    <ClCompile Include="循环单链表.c" />
-    <ClCompile Include="循环双链表.c" />
-    <ClCompile Include="静态链表.c" />
-    <ClCompile Include="顺序表的基本操作.c" />
-    <ClCompile Include="顺序表的定义 及 初始化.c" />
+    <ClCompile Include="串 的模式匹配.c" />
+    <ClCompile Include="串的存储结构.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
