@@ -55,6 +55,28 @@ root->lchild = p;        // 作为根结点的左孩子
 
 
 
+// 创建一棵二叉树  (根据前序遍历创建)
+BiTree createBinaryTree()
+{
+	int data;
+	printf("请输入节点的值（-1表示节点为空）：\n");
+	scanf("%d", &data);
+
+	if (data == -1)
+	{
+		return NULL;
+	}
+
+	BiTree node = (BiTNode*)malloc(sizeof(BiTNode));
+	node->data = data;
+	node->lchild = createBinaryTree();
+	node->rchild = createBinaryTree();
+	return node;
+}
+
+
+
+
 
 // 由于在二叉链表中定义了左右孩子指针，所以对于找寻结点 p 的左右孩子非常简单
 // 但是，对于寻找 p的父结点 却只能从根结点开始遍历（非常复杂）

@@ -18,5 +18,8 @@
     <ClCompile Include="二叉树的存储结构.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="二叉树的遍历.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
