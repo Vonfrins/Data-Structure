@@ -141,6 +141,8 @@
   <ItemGroup>
     <ClCompile Include="二叉树的存储结构.c" />
     <ClCompile Include="二叉树的遍历.c" />
+    <ClCompile Include="树 的存储结构.c" />
+    <ClCompile Include="线索二叉树 的定义及存储结构.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,0 +1,134 @@
+﻿  二叉树的存储结构.c
+D:\study\Data-Structure\树\二叉树的存储结构.c(9,1): error C2008: “[”: 宏定义中的意外
+D:\study\Data-Structure\树\二叉树的存储结构.c(12,2): error C2061: 语法错误: 标识符“ElemType”
+D:\study\Data-Structure\树\二叉树的存储结构.c(13,7): error C2061: 语法错误: 标识符“isEmpty”
+D:\study\Data-Structure\树\二叉树的存储结构.c(13,7): error C2059: 语法错误:“;”
+D:\study\Data-Structure\树\二叉树的存储结构.c(14,1): error C2059: 语法错误:“}”
+D:\study\Data-Structure\树\二叉树的存储结构.c(18,10): error C2061: 语法错误: 标识符“t”
+D:\study\Data-Structure\树\二叉树的存储结构.c(18,10): error C2059: 语法错误:“;”
+D:\study\Data-Structure\树\二叉树的存储结构.c(18,11): error C2059: 语法错误:“[”
+D:\study\Data-Structure\树\二叉树的存储结构.c(19,1): error C2059: 语法错误:“for”
+D:\study\Data-Structure\树\二叉树的存储结构.c(19,19): error C2143: 语法错误: 缺少“{”(在“<”的前面)
+D:\study\Data-Structure\树\二叉树的存储结构.c(19,19): error C2059: 语法错误:“<”
+D:\study\Data-Structure\树\二叉树的存储结构.c(19,31): error C2143: 语法错误: 缺少“{”(在“++”的前面)
+D:\study\Data-Structure\树\二叉树的存储结构.c(19,31): error C2059: 语法错误:“++”
+D:\study\Data-Structure\树\二叉树的存储结构.c(19,33): error C2059: 语法错误:“)”
+D:\study\Data-Structure\树\二叉树的存储结构.c(35,2): error C2061: 语法错误: 标识符“ElemType”
+D:\study\Data-Structure\树\二叉树的存储结构.c(37,1): error C2059: 语法错误:“}”
+D:\study\Data-Structure\树\二叉树的存储结构.c(41,8): error C2061: 语法错误: 标识符“root”
+D:\study\Data-Structure\树\二叉树的存储结构.c(41,8): error C2059: 语法错误:“;”
+D:\study\Data-Structure\树\二叉树的存储结构.c(41,13): error C2513: “ ”: 在“=”前没有声明变量
+D:\study\Data-Structure\树\二叉树的存储结构.c(44,16): error C2065: “BiTNode”: 未声明的标识符
+D:\study\Data-Structure\树\二叉树的存储结构.c(44,17): error C2059: 语法错误:“)”
+D:\study\Data-Structure\树\二叉树的存储结构.c(45,5): error C2143: 语法错误: 缺少“{”(在“->”的前面)
+D:\study\Data-Structure\树\二叉树的存储结构.c(45,5): error C2059: 语法错误:“->”
+D:\study\Data-Structure\树\二叉树的存储结构.c(46,5): error C2143: 语法错误: 缺少“{”(在“->”的前面)
+D:\study\Data-Structure\树\二叉树的存储结构.c(46,5): error C2059: 语法错误:“->”
+D:\study\Data-Structure\树\二叉树的存储结构.c(47,5): error C2143: 语法错误: 缺少“{”(在“->”的前面)
+D:\study\Data-Structure\树\二叉树的存储结构.c(47,5): error C2059: 语法错误:“->”
+D:\study\Data-Structure\树\二叉树的存储结构.c(50,8): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\study\Data-Structure\树\二叉树的存储结构.c(50,22): error C2065: “BiTNode”: 未声明的标识符
+D:\study\Data-Structure\树\二叉树的存储结构.c(50,23): error C2059: 语法错误:“)”
+D:\study\Data-Structure\树\二叉树的存储结构.c(51,2): error C2143: 语法错误: 缺少“{”(在“->”的前面)
+D:\study\Data-Structure\树\二叉树的存储结构.c(51,2): error C2059: 语法错误:“->”
+D:\study\Data-Structure\树\二叉树的存储结构.c(52,2): error C2143: 语法错误: 缺少“{”(在“->”的前面)
+D:\study\Data-Structure\树\二叉树的存储结构.c(52,2): error C2059: 语法错误:“->”
+D:\study\Data-Structure\树\二叉树的存储结构.c(53,2): error C2143: 语法错误: 缺少“{”(在“->”的前面)
+D:\study\Data-Structure\树\二叉树的存储结构.c(53,2): error C2059: 语法错误:“->”
+D:\study\Data-Structure\树\二叉树的存储结构.c(54,5): error C2143: 语法错误: 缺少“{”(在“->”的前面)
+D:\study\Data-Structure\树\二叉树的存储结构.c(54,5): error C2059: 语法错误:“->”
+D:\study\Data-Structure\树\二叉树的存储结构.c(59,8): error C2061: 语法错误: 标识符“createBinaryTree”
+D:\study\Data-Structure\树\二叉树的存储结构.c(59,8): error C2059: 语法错误:“;”
+D:\study\Data-Structure\树\二叉树的存储结构.c(59,25): error C2059: 语法错误:“<parameter-list>”
+D:\study\Data-Structure\树\二叉树的存储结构.c(89,2): error C2061: 语法错误: 标识符“ElemType”
+D:\study\Data-Structure\树\二叉树的存储结构.c(92,1): error C2059: 语法错误:“}”
+  二叉树的遍历.c
+D:\study\Data-Structure\树\二叉树的遍历.c(13,2): error C2061: 语法错误: 标识符“Elemtype”
+D:\study\Data-Structure\树\二叉树的遍历.c(15,1): error C2059: 语法错误:“}”
+D:\study\Data-Structure\树\二叉树的遍历.c(21,22): error C2146: 语法错误: 缺少“)”(在标识符“T”的前面)
+D:\study\Data-Structure\树\二叉树的遍历.c(21,22): error C2061: 语法错误: 标识符“T”
+D:\study\Data-Structure\树\二叉树的遍历.c(21,22): error C2059: 语法错误:“;”
+D:\study\Data-Structure\树\二叉树的遍历.c(21,23): error C2059: 语法错误:“)”
+D:\study\Data-Structure\树\二叉树的遍历.c(22,1): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+D:\study\Data-Structure\树\二叉树的遍历.c(29,1): error C2059: 语法错误:“}”
+D:\study\Data-Structure\树\二叉树的遍历.c(51,23): error C2146: 语法错误: 缺少“)”(在标识符“T”的前面)
+D:\study\Data-Structure\树\二叉树的遍历.c(51,23): error C2061: 语法错误: 标识符“T”
+D:\study\Data-Structure\树\二叉树的遍历.c(51,23): error C2059: 语法错误:“;”
+D:\study\Data-Structure\树\二叉树的遍历.c(51,24): error C2059: 语法错误:“)”
+D:\study\Data-Structure\树\二叉树的遍历.c(52,1): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+D:\study\Data-Structure\树\二叉树的遍历.c(60,1): error C2059: 语法错误:“}”
+D:\study\Data-Structure\树\二叉树的遍历.c(81,2): error C2061: 语法错误: 标识符“BiTree”
+D:\study\Data-Structure\树\二叉树的遍历.c(83,1): error C2059: 语法错误:“}”
+D:\study\Data-Structure\树\二叉树的遍历.c(87,2): error C2061: 语法错误: 标识符“LinkNode”
+D:\study\Data-Structure\树\二叉树的遍历.c(88,1): error C2059: 语法错误:“}”
+D:\study\Data-Structure\树\二叉树的遍历.c(91,11): error C2061: 语法错误: 标识符“InitQueue”
+D:\study\Data-Structure\树\二叉树的遍历.c(91,11): error C2059: 语法错误:“;”
+D:\study\Data-Structure\树\二叉树的遍历.c(91,21): error C2059: 语法错误:“<parameter-list>”
+D:\study\Data-Structure\树\二叉树的遍历.c(101,24): error C2146: 语法错误: 缺少“)”(在标识符“queue”的前面)
+D:\study\Data-Structure\树\二叉树的遍历.c(101,24): error C2061: 语法错误: 标识符“queue”
+D:\study\Data-Structure\树\二叉树的遍历.c(101,24): error C2059: 语法错误:“;”
+D:\study\Data-Structure\树\二叉树的遍历.c(101,29): error C2059: 语法错误:“)”
+D:\study\Data-Structure\树\二叉树的遍历.c(102,1): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+D:\study\Data-Structure\树\二叉树的遍历.c(107,1): error C2059: 语法错误:“}”
+D:\study\Data-Structure\树\二叉树的遍历.c(130,24): error C2146: 语法错误: 缺少“)”(在标识符“queue”的前面)
+D:\study\Data-Structure\树\二叉树的遍历.c(130,24): error C2061: 语法错误: 标识符“queue”
+D:\study\Data-Structure\树\二叉树的遍历.c(130,24): error C2059: 语法错误:“;”
+D:\study\Data-Structure\树\二叉树的遍历.c(130,29): error C2059: 语法错误:“,”
+D:\study\Data-Structure\树\二叉树的遍历.c(130,41): error C2059: 语法错误:“)”
+D:\study\Data-Structure\树\二叉树的遍历.c(148,8): error C2061: 语法错误: 标识符“createBinaryTree”
+D:\study\Data-Structure\树\二叉树的遍历.c(148,8): error C2059: 语法错误:“;”
+D:\study\Data-Structure\树\二叉树的遍历.c(148,25): error C2059: 语法错误:“<parameter-list>”
+D:\study\Data-Structure\树\二叉树的遍历.c(166,24): error C2146: 语法错误: 缺少“)”(在标识符“T”的前面)
+D:\study\Data-Structure\树\二叉树的遍历.c(166,24): error C2061: 语法错误: 标识符“T”
+D:\study\Data-Structure\树\二叉树的遍历.c(166,24): error C2059: 语法错误:“;”
+D:\study\Data-Structure\树\二叉树的遍历.c(166,25): error C2059: 语法错误:“)”
+D:\study\Data-Structure\树\二叉树的遍历.c(167,1): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+D:\study\Data-Structure\树\二叉树的遍历.c(182,1): error C2059: 语法错误:“}”
+  树 的存储结构.c
+D:\study\Data-Structure\树\树 的存储结构.c(10,2): error C2061: 语法错误: 标识符“Elemtype”
+D:\study\Data-Structure\树\树 的存储结构.c(12,1): error C2059: 语法错误:“}”
+D:\study\Data-Structure\树\树 的存储结构.c(16,2): error C2061: 语法错误: 标识符“PTNode”
+D:\study\Data-Structure\树\树 的存储结构.c(18,1): error C2059: 语法错误:“}”
+  线索二叉树 的定义及存储结构.c
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(9,21): error C2146: 语法错误: 缺少“)”(在标识符“node”的前面)
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(9,21): error C2061: 语法错误: 标识符“node”
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(9,21): error C2059: 语法错误:“;”
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(9,25): error C2059: 语法错误:“)”
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(10,1): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(17,1): error C2059: 语法错误:“}”
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(38,11): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(41,32): error C2146: 语法错误: 缺少“)”(在标识符“T”的前面)
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(41,32): error C2061: 语法错误: 标识符“T”
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(41,32): error C2059: 语法错误:“;”
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(41,33): error C2059: 语法错误:“)”
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(42,1): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(50,1): error C2059: 语法错误:“}”
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(70,26): error C2146: 语法错误: 缺少“)”(在标识符“T”的前面)
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(70,26): error C2061: 语法错误: 标识符“T”
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(70,26): error C2059: 语法错误:“;”
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(70,27): error C2059: 语法错误:“)”
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(71,1): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(78,1): error C2059: 语法错误:“}”
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(95,11): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(95,32): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(95,32): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(95,35): error C2059: 语法错误:“)”
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(96,1): error C2054: 在“p”之后应输入“(”
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(106,25): error C2146: 语法错误: 缺少“)”(在标识符“T”的前面)
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(106,25): error C2061: 语法错误: 标识符“T”
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(106,25): error C2059: 语法错误:“;”
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(106,26): error C2059: 语法错误:“)”
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(107,1): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(110,1): error C2059: 语法错误:“}”
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(128,11): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(128,31): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(128,31): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(128,34): error C2059: 语法错误:“)”
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(129,1): error C2054: 在“p”之后应输入“(”
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(139,28): error C2146: 语法错误: 缺少“)”(在标识符“T”的前面)
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(139,28): error C2061: 语法错误: 标识符“T”
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(139,28): error C2059: 语法错误:“;”
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(139,29): error C2059: 语法错误:“)”
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(140,1): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+D:\study\Data-Structure\树\线索二叉树 的定义及存储结构.c(143,1): error C2059: 语法错误:“}”
+  正在生成代码...
